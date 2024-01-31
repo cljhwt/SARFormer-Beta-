@@ -1,0 +1,3 @@
+configs/mask2former/mask2former_swin-t-adapter.py
+
+configs/mymodel/Beit+merge2former_adapter_640.py
